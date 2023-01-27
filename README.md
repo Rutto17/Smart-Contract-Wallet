@@ -1,6 +1,6 @@
 # The implementation of the Smart Contract Wallet
 
-# Requirements:
+### Requirements:
 
 1. Wallet has 1 Owner
 
