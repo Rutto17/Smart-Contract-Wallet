@@ -1,4 +1,4 @@
-# The implementation of the Smart Contract Wallet
+# The implementation of a Smart Contract Wallet
 
 ### Requirements:
 
